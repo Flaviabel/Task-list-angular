@@ -23,6 +23,12 @@
       "text": "Terminar cuarta tarea angular",
       "day": "Agosto 8",
       "reminder": false
+    },
+    {
+      "text": "Nueva tarea",
+      "day": "6 Agosto",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
